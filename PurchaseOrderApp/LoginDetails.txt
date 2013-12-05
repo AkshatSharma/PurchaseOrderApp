@@ -1,0 +1,12 @@
+Database connection used in the project
+
+3 usernames and passwords are stored in the database
+_________________________________________________________________
+1. username - abc123			Password - xyz789        |
+2. username - apple.shop		Password - shopping 	 |
+3. username - administrator		Password - administrator |
+_________________________________________________________________|
+
+*username and password are case-sensitive
+
+Also a user of this application can have his/her own username and password by signing up at the sign up page and then logging in!
