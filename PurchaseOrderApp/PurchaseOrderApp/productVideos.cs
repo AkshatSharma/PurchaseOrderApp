@@ -47,7 +47,7 @@ namespace PurchaseOrderApp
             sendToBack();
 
             //Navigates to the iPhone4s Video
-            webBrowser1.Navigate(@"http://www.youtube.com/watch?v=f_JRZI9o49w&autoplay=1");
+            webBrowser1.Navigate(@"http://www.youtube.com/watch?v=S4h1dnV9yQY&autoplay=1");
         }
 
         //
@@ -57,7 +57,7 @@ namespace PurchaseOrderApp
             sendToBack();
 
             //Navigates to the new iPad Video
-            webBrowser1.Navigate(@"http://www.youtube.com/watch?v=AEngFNb5CRU&autoplay=1");
+            webBrowser1.Navigate(@"http://www.youtube.com/watch?v=K8ecN36Ffpc&autoplay=1");
         }
 
         private void macButton_Click(object sender, EventArgs e)
@@ -66,7 +66,7 @@ namespace PurchaseOrderApp
             sendToBack();
 
             //Navigates to the MacBook Pro Video
-            webBrowser1.Navigate(@"http://www.youtube.com/watch?v=5j2zyp6qcbk");
+            webBrowser1.Navigate(@"http://www.youtube.com/watch?v=5j2zyp6qcbk&autoplay=1");
         }
 
         private void tvButton_Click(object sender, EventArgs e)
@@ -75,7 +75,7 @@ namespace PurchaseOrderApp
             sendToBack();
 
             //Navigates to the Apple TV Video
-            webBrowser1.Navigate(@"http://www.youtube.com/watch?v=fHTmRSTX7C8");
+            webBrowser1.Navigate(@"http://www.youtube.com/watch?v=qNg0Gj1cdmE&autoplay=1");
         }
 
         private void iPodButton_Click(object sender, EventArgs e)
